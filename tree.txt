@@ -1,0 +1,35 @@
+
+
+=======       PHPExcel功能演示简单版      简单的PHP结合PHPEXCEL功能演示和实验
+	|
+	===README.assets      read.me中的图片存储
+	|
+	===TP5		系统核心代码,符合TP5代码规范
+		|
+		===SQL
+			|
+			===baobiao.sql   		重要sql
+			|
+			===create_fuzhaibiao.sql 	创建负债表的sql
+			|	
+			===create_qinchabiao.sql	创建清查表的sql
+			|
+			===excel.sql
+	|
+	===原始表格	用于上传测试的表格文件
+		|
+		===划分的子表
+		|
+		===两个总表
+		|
+		===用于添加用户管理的代码段
+	|
+	===README.md
+	|
+	===TP5+PHPExcel农业局表格核查系统.docx   	系统功能演示以及操作手册等
+	|
+	===tree.txt		文件目录速查
+	|
+	===清查表带标记子表全部输出.xlsx		输出展示效果
+	|
+	===需求解释.txt
